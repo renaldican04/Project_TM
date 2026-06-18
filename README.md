@@ -66,44 +66,46 @@ Figma
 GitHub
 
 # Struktur Fitur
-EduConnect
+```text
+EduConnect/
 │
-├── Authentication
-│ ├── Login
-│ ├── Registrasi Akun
-│ ├── Lupa Password
-│ └── Logout
+├── Authentication/
+│   ├── Login
+│   ├── Registrasi Akun
+│   ├── Lupa Password
+│   └── Logout
 │
-├── Beranda (Home)
-│ ├── Notifikasi
-│ ├── Daftar Tugas
-│ ├── Forum Diskusi
-│ └── Deadline Tugas
+├── Beranda/
+│   ├── Notifikasi
+│   ├── Daftar Tugas
+│   ├── Forum Diskusi
+│   └── Deadline Tugas
 │
-├── Manajemen Tugas
-│ ├── Melihat Daftar Tugas
-│ ├── Melihat Detail Tugas
-│ ├── Upload Tugas
-│ └── Status Pengumpulan Tugas
+├── Manajemen Tugas/
+│   ├── Lihat Tugas
+│   ├── Detail Tugas
+│   ├── Upload Tugas
+│   └── Status Pengumpulan
 │
-├── Komunitas
-│ ├── Melihat Postingan Diskusi
-│ ├── Membuat Postingan
-│ ├── Memberikan Komentar
-│ └── Interaksi Pengguna
+├── Komunitas/
+│   ├── Daftar Diskusi
+│   ├── Postingan Pengguna
+│   ├── Komentar
+│   └── Interaksi Pengguna
 │
-├── Profil Pengguna
-│ ├── Informasi Akun
-│ ├── Statistik Aktivitas
-│ │ ├── Jumlah Postingan
-│ │ ├── Jumlah Komentar
-│ │ └── Jumlah Like
-│ └── Informasi Pribadi
+├── Profil Pengguna/
+│   ├── Informasi Akun
+│   ├── Jumlah Postingan
+│   ├── Jumlah Komentar
+│   ├── Jumlah Like
+│   └── Informasi Pribadi
 │
-└── Informasi Aplikasi
-├── Deskripsi Aplikasi
-├── Panduan Penggunaan
-└── Informasi Sistem
+└── Informasi Aplikasi/
+    ├── Deskripsi Aplikasi
+    ├── Panduan Penggunaan
+    └── Informasi Sistem
+```
+
 
 # Link
 https://www.figma.com/design/Oe4tvLuKYuaqXmCyZ61d3t/Untitled?node-id=0-1&t=B28nMrX1hBOW8xHn-1
