@@ -65,33 +65,45 @@ Tools
 Figma
 GitHub
 
-# EduConnect
+# Struktur Fitur
+EduConnect
 │
 ├── Authentication
-│   ├── Login
-│   ├── Register
-│   ├── Forgot Password
-│   └── Logout
+│ ├── Login
+│ ├── Registrasi Akun
+│ ├── Lupa Password
+│ └── Logout
 │
-├── Home
-│   ├── Notifications
-│   ├── Tasks
-│   ├── Discussion Forum
-│   └── Deadlines
+├── Beranda (Home)
+│ ├── Notifikasi
+│ ├── Daftar Tugas
+│ ├── Forum Diskusi
+│ └── Deadline Tugas
 │
-├── Community
-│   ├── Discussion Posts
-│   └── User Interaction
+├── Manajemen Tugas
+│ ├── Melihat Daftar Tugas
+│ ├── Melihat Detail Tugas
+│ ├── Upload Tugas
+│ └── Status Pengumpulan Tugas
 │
-├── Task Management
-│   ├── View Tasks
-│   ├── Task Details
-│   └── Upload Assignment
+├── Komunitas
+│ ├── Melihat Postingan Diskusi
+│ ├── Membuat Postingan
+│ ├── Memberikan Komentar
+│ └── Interaksi Pengguna
 │
-└── Profile
-    ├── User Information
-    ├── Activity Statistics
-    └── Personal Profile
+├── Profil Pengguna
+│ ├── Informasi Akun
+│ ├── Statistik Aktivitas
+│ │ ├── Jumlah Postingan
+│ │ ├── Jumlah Komentar
+│ │ └── Jumlah Like
+│ └── Informasi Pribadi
+│
+└── Informasi Aplikasi
+├── Deskripsi Aplikasi
+├── Panduan Penggunaan
+└── Informasi Sistem
 
 # Link
 https://www.figma.com/design/Oe4tvLuKYuaqXmCyZ61d3t/Untitled?node-id=0-1&t=B28nMrX1hBOW8xHn-1
