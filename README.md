@@ -10,25 +10,25 @@ Autentikasi Pengguna
 * Lupa Password
 * Logout
 
-Beranda
+# Beranda
 * Menampilkan informasi pengguna
 * Notifikasi terbaru
 * Daftar tugas
 * Forum diskusi
 * Deadline tugas
 
-Manajemen Tugas
+# Manajemen Tugas
 * Melihat daftar tugas
 * Melihat detail tugas
 * Mengunggah tugas
 * Melihat status tugas
 
-Komunitas
+# Komunitas
 * Forum diskusi antar pengguna
 * Berbagi pendapat dan informasi
 * Interaksi melalui postingan komunitas
 
-Profil Pengguna
+# Profil Pengguna
 * Informasi akun pengguna
 * Statistik aktivitas
 * Jumlah Postingan
@@ -36,12 +36,12 @@ Profil Pengguna
 * Jumlah Like
 * Informasi pribadi pengguna
 
-Informasi Aplikasi
+# Informasi Aplikasi
 * Deskripsi aplikasi
 * Navigasi menu utama
 * Informasi penggunaan sistem
 
-Tampilan Aplikasi
+# Tampilan Aplikasi
 * Halaman yang Tersedia
 * Splash Screen / Login
 * Registrasi
@@ -54,10 +54,10 @@ Tampilan Aplikasi
 * Informasi Aplikasi
 
 # Teknologi yang Digunakan
-Front-End
+# Front-End
 * Figma (UI/UX Design)
 
-Tools
+# Tools
 * Figma
 GitHub
 
